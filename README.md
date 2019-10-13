@@ -14,4 +14,4 @@ Two classifiers were developed:
 [Run1 Analysis Notebook](https://github.com/ioannisa92/RiboVsPolyA_analysis/blob/master/ResultsAnalysis_run1.ipynb) shows the performance of the disease *unbalanced* classifier
 
 # Run2 Classification Analysis
-[Run2 Analysus Notebook] (https://github.com/ioannisa92/RiboVsPolyA_analysis/blob/master/ResultsAnalysis_run2.ipynb) shows teh performance of the disease *balanced* classifier
+[Run2 Analysus Notebook](https://github.com/ioannisa92/RiboVsPolyA_analysis/blob/master/ResultsAnalysis_run2.ipynb) shows teh performance of the disease *balanced* classifier
