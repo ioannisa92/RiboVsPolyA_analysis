@@ -8,3 +8,10 @@ Two classifiers were developed:
 * A classifier that was trained on the same data, however the PolyA compendium was split to reflect the disease prevalence in Ribo-deplete libraries (**referred to as run1**)
 
 # Rank Correlation Analysis
+[Corellation Notebook](https://github.com/ioannisa92/RiboVsPolyA_analysis/blob/master/RankCorrelation.ipynb) shows the correlation of the rank of genes as determined by importance scoring from run1 and run2 classifiers
+
+# Run1 Classification Analysis
+[Run1 Analysis Notebook](https://github.com/ioannisa92/RiboVsPolyA_analysis/blob/master/ResultsAnalysis_run1.ipynb) shows the performance of the disease *unbalanced* classifier
+
+# Run2 Classification Analysis
+[Run2 Analysus Notebook] (https://github.com/ioannisa92/RiboVsPolyA_analysis/blob/master/ResultsAnalysis_run2.ipynb) shows teh performance of the disease *balanced* classifier
