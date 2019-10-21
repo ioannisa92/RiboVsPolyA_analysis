@@ -5,7 +5,7 @@ Analysis notebooks for RiboVsPolyA [repo](https://github.com/ioannisa92/RiboVsPo
 # Classification Setup
 Two classifiers were developed:
 * A classifier that was trained on Ribo-deplete and PolyA libaries, without balancing for disease prevalence (**referred to as run1**)
-* A classifier that was trained on the same data, however the PolyA compendium was split to reflect the disease prevalence in Ribo-deplete libraries (**referred to as run1**)
+* A classifier that was trained on the same data, however the PolyA compendium was split to reflect the disease prevalence in Ribo-deplete libraries (**referred to as run2**)
 
 [Random Forest Script](https://github.com/ioannisa92/RiboVsPolyA_analysis/blob/master/RF.py) shows how the classifier was setup, and the save file (.npy) of how the results are saved
 
